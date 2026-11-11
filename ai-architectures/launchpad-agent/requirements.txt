@@ -1,12 +1,12 @@
 annotated-types==0.7.0
 anyio==4.9.0
-Authlib==1.6.0
-certifi==2025.6.15
+Authlib==1.9.1
+certifi==2026.10.18
 cffi==1.17.1
 click==8.2.1
 cryptography==45.0.4
 distro==1.9.0
-dnspython==2.7.0
+dnspython==2.9.0
 email_validator==2.2.0
 exceptiongroup==1.3.0
 fastapi==0.115.12
@@ -24,7 +24,7 @@ json_repair==0.46.2
 lite-logging-client==1.0.3
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
-mcp==1.9.4
+mcp==1.30.0
 mdurl==0.1.2
 openai==1.87.0
 openapi-pydantic==0.5.1
@@ -33,7 +33,7 @@ pydantic==2.11.7
 pydantic-settings==2.9.1
 pydantic_core==2.33.2
 Pygments==2.19.1
-pymongo==4.13.2
+pymongo==4.18.3
 python-dotenv==1.1.0
 python-multipart==0.0.20
 PyYAML==6.0.2
